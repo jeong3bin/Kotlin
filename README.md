@@ -23,7 +23,7 @@ AAC의 viewmodel은 수명 주기를 고려하여 UI 관련 데이터를 저장�
  ➡ 둘 다 onDestroy()가 호출됨 </br>
 > __화면회전과 앱 종료 등을 어떻게 구분하지❔__
 
- `isFinishing() 메서드로 구분'
+ `isFinishing() 메서드로 구분`
  1. 활동이 종료되는 경우 
       - onDestroy()는 활동이 수신하는 마지막 수명 주기 콜백이 됨
  2. 구성 변경으로 인해 onDestroy()가 호출되는 경우 
