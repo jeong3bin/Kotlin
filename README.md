@@ -21,7 +21,7 @@ AAC의 viewmodel은 수명 주기를 고려하여 UI 관련 데이터를 저장�
 <img src = "https://user-images.githubusercontent.com/45004756/92677034-d0465600-f35d-11ea-9e0e-baccdd822298.png" width="250" height="300">
 
  ➡ 둘 다 onDestroy()가 호출됨 </br>
-__화면회전과 앱 종료 등을 어떻게 구분하지❔__
+> __화면회전과 앱 종료 등을 어떻게 구분하지❔__
 
  `isFinishing()` 메서드로 구분
  1. 활동이 종료되는 경우 
