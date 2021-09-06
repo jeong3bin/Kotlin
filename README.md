@@ -12,9 +12,9 @@ Kotlin Android Extension만 적용시키면, 레이아웃을 import 시키는 �
 ✔ findviewbyid()를 사용해도 문제는 없다]
 ```
 
-최근에는 databinding(뷰결합)이 권장됨지</br>
-✔ 더 빠른 컴파일 지</br>
-✔ 쉬운 사용성지</br>
+최근에는 databinding(뷰결합)이 권장됨</br>
+✔ 더 빠른 컴파일</br>
+✔ 쉬운 사용성</br>
 
 lifecycle
 ---------
