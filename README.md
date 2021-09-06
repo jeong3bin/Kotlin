@@ -9,8 +9,12 @@ kotlin에서 findviewbyid()를 하지않고 view의 id만으로 접근 가능
 ```
 kotlin에서는 findviewbyid()를 사용하지 않아도 된다.
 Kotlin Android Extension만 적용시키면, 레이아웃을 import 시키는 것만으로도 XML에서 정의내린 위젯들을 Id로 읽어들인다.
-✔ findviewbyid()를 사용해도 문제는 없다
+✔ findviewbyid()를 사용해도 문제는 없다]
 ```
+
+최근에는 databinding(뷰결합)이 권장됨지</br>
+✔ 더 빠른 컴파일 지</br>
+✔ 쉬운 사용성지</br>
 
 lifecycle
 ---------
